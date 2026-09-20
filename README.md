@@ -1,2 +1,2 @@
 # html_practic
-my first project
+my first project for learning web developer
